@@ -1,7 +1,7 @@
 ---
 title: TinaCMS Documentation
 id: introduction
-last_edited: '2020-08-17T20:43:06.481Z'
+last_edited: '2020-10-25T18:55:25.174Z'
 ---
 Tina is a **toolkit for building content management systems.** By creating a custom CMS with Tina instead of opting for a conventional, "turn-key" solution, developers that use Tina have a lot more control over the editing experience of their users.
 
@@ -16,7 +16,7 @@ Are you new to using Tina to build content management systems? Start with these 
   | [Loading content from an external API](/docs/getting-started/backends#loading-content-from-an-external-api)
   | [Saving content changes](/docs/getting-started/backends#saving-content)
   | [Adding alerts](/docs/getting-started/backends#adding-alerts)
-* Click **Edit this Site** at the bottom of the page to fork the [tinacms.org repository](https://github.com/tinacms/tinacms.org "Tinacms.org Repository"), make changes, and then open a Pull Request!
+* Poop
 * Checkout [this video of a page builder](https://youtu.be/4qGz0cP_DSA "Inline Editing Demo Video") created with TinaCMS.
 
 ## Getting Help
